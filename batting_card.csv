@@ -1,0 +1,689 @@
+season,match_id,match_name,venue,fullName,runs,ballsFaced,fours,sixes,strikeRate
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Mohammad Rizwan,15,14,0,1,107.14
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Babar Azam,32,28,2,0,114.28
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Mohammad Haris,8,12,1,0,66.66
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Shan Masood,38,28,2,1,135.71
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Iftikhar Ahmed,0,6,0,0,0
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Shadab Khan,20,14,2,0,142.85
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Mohammad Nawaz,5,7,0,0,71.42
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Mohammad Wasim,4,8,0,0,50
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Shaheen Shah Afridi,5,3,1,0,166.66
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Haris Rauf,1,1,0,0,100
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Jos Buttler,26,17,3,1,152.94
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Alex Hales,1,2,0,0,50
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Phil Salt,10,9,2,0,111.11
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Ben Stokes,52,49,5,1,106.12
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Harry Brook,20,23,1,0,86.95
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Moeen Ali,19,12,3,0,158.33
+2022,1298179,ENG v PAK,Melbourne Cricket Ground,Liam Livingstone,1,2,0,0,50
+2022,1298178,ENG v INDIA,Adelaide Oval,KL Rahul,5,5,1,0,100
+2022,1298178,ENG v INDIA,Adelaide Oval,Rohit Sharma,27,28,4,0,96.42
+2022,1298178,ENG v INDIA,Adelaide Oval,Virat Kohli,50,40,4,1,125
+2022,1298178,ENG v INDIA,Adelaide Oval,Suryakumar Yadav,14,10,1,1,140
+2022,1298178,ENG v INDIA,Adelaide Oval,Hardik Pandya,63,33,4,5,190.9
+2022,1298178,ENG v INDIA,Adelaide Oval,Rishabh Pant,6,4,1,0,150
+2022,1298178,ENG v INDIA,Adelaide Oval,Jos Buttler,80,49,9,3,163.26
+2022,1298178,ENG v INDIA,Adelaide Oval,Alex Hales,86,47,4,7,182.97
+2022,1298177,NZ v PAK,Sydney Cricket Ground,Finn Allen,4,3,1,0,133.33
+2022,1298177,NZ v PAK,Sydney Cricket Ground,Devon Conway,21,20,3,0,105
+2022,1298177,NZ v PAK,Sydney Cricket Ground,Kane Williamson,46,42,1,1,109.52
+2022,1298177,NZ v PAK,Sydney Cricket Ground,Glenn Phillips,6,8,1,0,75
+2022,1298177,NZ v PAK,Sydney Cricket Ground,Daryl Mitchell,53,35,3,1,151.42
+2022,1298177,NZ v PAK,Sydney Cricket Ground,James Neesham,16,12,1,0,133.33
+2022,1298177,NZ v PAK,Sydney Cricket Ground,Mohammad Rizwan,57,43,5,0,132.55
+2022,1298177,NZ v PAK,Sydney Cricket Ground,Babar Azam,53,42,7,0,126.19
+2022,1298177,NZ v PAK,Sydney Cricket Ground,Mohammad Haris,30,26,2,1,115.38
+2022,1298177,NZ v PAK,Sydney Cricket Ground,Shan Masood,3,4,0,0,75
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,KL Rahul,51,35,3,3,145.71
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Rohit Sharma,15,13,2,0,115.38
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Virat Kohli,26,25,2,0,104
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Suryakumar Yadav,61,25,6,4,244
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Rishabh Pant,3,5,0,0,60
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Hardik Pandya,18,18,2,0,100
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Wessly Madhevere,0,1,0,0,0
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Craig Ervine,13,15,2,0,86.66
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Regis Chakabva,0,6,0,0,0
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Sean Williams,11,18,0,1,61.11
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Sikandar Raza,34,24,3,0,141.66
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Tony Munyonga,5,4,1,0,125
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Ryan Burl,35,22,5,1,159.09
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Wellington Masakadza,1,7,0,0,14.28
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Richard Ngarava,1,2,0,0,50
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Tendai Chatara,4,4,1,0,100
+2022,1298176,INDIA v ZIM,Melbourne Cricket Ground,Blessing Muzarabani,0,2,0,0,0
+2022,1298175,BAN v PAK,Adelaide Oval,Najmul Hossain Shanto,54,48,7,0,112.5
+2022,1298175,BAN v PAK,Adelaide Oval,Litton Das,10,8,0,1,125
+2022,1298175,BAN v PAK,Adelaide Oval,Soumya Sarkar,20,17,1,1,117.64
+2022,1298175,BAN v PAK,Adelaide Oval,Shakib Al Hasan,0,1,0,0,0
+2022,1298175,BAN v PAK,Adelaide Oval,Afif Hossain,24,20,3,0,120
+2022,1298175,BAN v PAK,Adelaide Oval,Mosaddek Hossain,5,11,0,0,45.45
+2022,1298175,BAN v PAK,Adelaide Oval,Nurul Hasan,0,3,0,0,0
+2022,1298175,BAN v PAK,Adelaide Oval,Taskin Ahmed,1,5,0,0,20
+2022,1298175,BAN v PAK,Adelaide Oval,Nasum Ahmed,7,6,1,0,116.66
+2022,1298175,BAN v PAK,Adelaide Oval,Mustafizur Rahman,0,1,0,0,0
+2022,1298175,BAN v PAK,Adelaide Oval,Mohammad Rizwan,32,32,2,1,100
+2022,1298175,BAN v PAK,Adelaide Oval,Babar Azam,25,33,2,0,75.75
+2022,1298175,BAN v PAK,Adelaide Oval,Mohammad Nawaz,4,11,0,0,36.36
+2022,1298175,BAN v PAK,Adelaide Oval,Mohammad Haris,31,18,1,2,172.22
+2022,1298175,BAN v PAK,Adelaide Oval,Shan Masood,24,14,2,0,171.42
+2022,1298175,BAN v PAK,Adelaide Oval,Iftikhar Ahmed,1,3,0,0,33.33
+2022,1298174,NED v SA,Adelaide Oval,Stephan Myburgh,37,30,7,0,123.33
+2022,1298174,NED v SA,Adelaide Oval,Max O'Dowd,29,31,1,1,93.54
+2022,1298174,NED v SA,Adelaide Oval,Tom Cooper,35,19,2,2,184.21
+2022,1298174,NED v SA,Adelaide Oval,Colin Ackermann,41,26,3,2,157.69
+2022,1298174,NED v SA,Adelaide Oval,Bas de Leede,1,7,0,0,14.28
+2022,1298174,NED v SA,Adelaide Oval,Scott Edwards,12,7,2,0,171.42
+2022,1298174,NED v SA,Adelaide Oval,Quinton de Kock,13,13,1,1,100
+2022,1298174,NED v SA,Adelaide Oval,Temba Bavuma,20,20,2,0,100
+2022,1298174,NED v SA,Adelaide Oval,Rilee Rossouw,25,19,2,0,131.57
+2022,1298174,NED v SA,Adelaide Oval,Aiden Markram,17,13,2,0,130.76
+2022,1298174,NED v SA,Adelaide Oval,David Miller,17,17,1,0,100
+2022,1298174,NED v SA,Adelaide Oval,Heinrich Klaasen,21,18,0,1,116.66
+2022,1298174,NED v SA,Adelaide Oval,Wayne Parnell,0,2,0,0,0
+2022,1298174,NED v SA,Adelaide Oval,Keshav Maharaj,13,12,0,1,108.33
+2022,1298174,NED v SA,Adelaide Oval,Kagiso Rabada,9,8,0,0,112.5
+2022,1298174,NED v SA,Adelaide Oval,Anrich Nortje,4,1,1,0,400
+2022,1298173,ENG v SL,Sydney Cricket Ground,Pathum Nissanka,67,45,2,5,148.88
+2022,1298173,ENG v SL,Sydney Cricket Ground,Kusal Mendis,18,14,1,1,128.57
+2022,1298173,ENG v SL,Sydney Cricket Ground,Dhananjaya de Silva,9,11,0,0,81.81
+2022,1298173,ENG v SL,Sydney Cricket Ground,Charith Asalanka,8,9,0,0,88.88
+2022,1298173,ENG v SL,Sydney Cricket Ground,Bhanuka Rajapaksa,22,22,3,0,100
+2022,1298173,ENG v SL,Sydney Cricket Ground,Dasun Shanaka,3,8,0,0,37.5
+2022,1298173,ENG v SL,Sydney Cricket Ground,Wanindu Hasaranga de Silva,9,9,1,0,100
+2022,1298173,ENG v SL,Sydney Cricket Ground,Chamika Karunaratne,0,2,0,0,0
+2022,1298173,ENG v SL,Sydney Cricket Ground,Jos Buttler,28,23,2,1,121.73
+2022,1298173,ENG v SL,Sydney Cricket Ground,Alex Hales,47,30,7,1,156.66
+2022,1298173,ENG v SL,Sydney Cricket Ground,Ben Stokes,42,36,2,0,116.66
+2022,1298173,ENG v SL,Sydney Cricket Ground,Harry Brook,4,5,0,0,80
+2022,1298173,ENG v SL,Sydney Cricket Ground,Liam Livingstone,4,6,0,0,66.66
+2022,1298173,ENG v SL,Sydney Cricket Ground,Moeen Ali,1,5,0,0,20
+2022,1298173,ENG v SL,Sydney Cricket Ground,Sam Curran,6,11,0,0,54.54
+2022,1298173,ENG v SL,Sydney Cricket Ground,Chris Woakes,5,3,1,0,166.66
+2022,1298172,AUS v AFG,Adelaide Oval,David Warner,25,18,5,0,138.88
+2022,1298172,AUS v AFG,Adelaide Oval,Cameron Green,3,2,0,0,150
+2022,1298172,AUS v AFG,Adelaide Oval,Mitchell Marsh,45,30,3,2,150
+2022,1298172,AUS v AFG,Adelaide Oval,Steven Smith,4,4,1,0,100
+2022,1298172,AUS v AFG,Adelaide Oval,Marcus Stoinis,25,21,0,2,119.04
+2022,1298172,AUS v AFG,Adelaide Oval,Glenn Maxwell,54,32,6,2,168.75
+2022,1298172,AUS v AFG,Adelaide Oval,Matthew Wade,6,8,1,0,75
+2022,1298172,AUS v AFG,Adelaide Oval,Pat Cummins,0,2,0,0,0
+2022,1298172,AUS v AFG,Adelaide Oval,Kane Richardson,1,1,0,0,100
+2022,1298172,AUS v AFG,Adelaide Oval,Adam Zampa,1,1,0,0,100
+2022,1298172,AUS v AFG,Adelaide Oval,Rahmanullah Gurbaz,30,17,2,2,176.47
+2022,1298172,AUS v AFG,Adelaide Oval,Usman Ghani,2,7,0,0,28.57
+2022,1298172,AUS v AFG,Adelaide Oval,Ibrahim Zadran,26,33,2,0,78.78
+2022,1298172,AUS v AFG,Adelaide Oval,Gulbadin Naib,39,23,3,2,169.56
+2022,1298172,AUS v AFG,Adelaide Oval,Mohammad Nabi,1,2,0,0,50
+2022,1298172,AUS v AFG,Adelaide Oval,Najibullah Zadran,0,2,0,0,0
+2022,1298172,AUS v AFG,Adelaide Oval,Darwish Rasooli,15,13,1,0,115.38
+2022,1298172,AUS v AFG,Adelaide Oval,Rashid Khan,48,23,3,4,208.69
+2022,1298171,IRE v NZ,Adelaide Oval,Finn Allen,32,18,5,1,177.77
+2022,1298171,IRE v NZ,Adelaide Oval,Devon Conway,28,33,2,0,84.84
+2022,1298171,IRE v NZ,Adelaide Oval,Kane Williamson,61,35,5,3,174.28
+2022,1298171,IRE v NZ,Adelaide Oval,Glenn Phillips,17,9,2,1,188.88
+2022,1298171,IRE v NZ,Adelaide Oval,Daryl Mitchell,31,21,2,0,147.61
+2022,1298171,IRE v NZ,Adelaide Oval,James Neesham,0,1,0,0,0
+2022,1298171,IRE v NZ,Adelaide Oval,Mitchell Santner,0,1,0,0,0
+2022,1298171,IRE v NZ,Adelaide Oval,Tim Southee,1,2,0,0,50
+2022,1298171,IRE v NZ,Adelaide Oval,Paul Stirling,37,27,3,1,137.03
+2022,1298171,IRE v NZ,Adelaide Oval,Andy Balbirnie,30,25,0,3,120
+2022,1298171,IRE v NZ,Adelaide Oval,Lorcan Tucker,13,14,0,0,92.85
+2022,1298171,IRE v NZ,Adelaide Oval,Harry Tector,2,7,0,0,28.57
+2022,1298171,IRE v NZ,Adelaide Oval,Gareth Delany,10,8,2,0,125
+2022,1298171,IRE v NZ,Adelaide Oval,George Dockrell,23,15,3,0,153.33
+2022,1298171,IRE v NZ,Adelaide Oval,Curtis Campher,7,7,1,0,100
+2022,1298171,IRE v NZ,Adelaide Oval,Fionn Hand,5,3,1,0,166.66
+2022,1298171,IRE v NZ,Adelaide Oval,Mark Adair,4,5,0,0,80
+2022,1298171,IRE v NZ,Adelaide Oval,Barry McCarthy,6,5,0,0,120
+2022,1298171,IRE v NZ,Adelaide Oval,Josh Little,8,4,0,1,200
+2022,1298170,PAK v SA,Sydney Cricket Ground,Mohammad Rizwan,4,4,1,0,100
+2022,1298170,PAK v SA,Sydney Cricket Ground,Babar Azam,6,15,0,0,40
+2022,1298170,PAK v SA,Sydney Cricket Ground,Mohammad Haris,28,11,2,3,254.54
+2022,1298170,PAK v SA,Sydney Cricket Ground,Shan Masood,2,6,0,0,33.33
+2022,1298170,PAK v SA,Sydney Cricket Ground,Iftikhar Ahmed,51,35,3,2,145.71
+2022,1298170,PAK v SA,Sydney Cricket Ground,Mohammad Nawaz,28,22,4,1,127.27
+2022,1298170,PAK v SA,Sydney Cricket Ground,Shadab Khan,52,22,3,4,236.36
+2022,1298170,PAK v SA,Sydney Cricket Ground,Mohammad Wasim,0,1,0,0,0
+2022,1298170,PAK v SA,Sydney Cricket Ground,Naseem Shah,5,3,0,0,166.66
+2022,1298170,PAK v SA,Sydney Cricket Ground,Haris Rauf,3,2,0,0,150
+2022,1298170,PAK v SA,Sydney Cricket Ground,Temba Bavuma,36,19,4,1,189.47
+2022,1298170,PAK v SA,Sydney Cricket Ground,Quinton de Kock,0,5,0,0,0
+2022,1298170,PAK v SA,Sydney Cricket Ground,Rilee Rossouw,7,6,0,1,116.66
+2022,1298170,PAK v SA,Sydney Cricket Ground,Aiden Markram,20,14,4,0,142.85
+2022,1298170,PAK v SA,Sydney Cricket Ground,Heinrich Klaasen,15,9,3,0,166.66
+2022,1298170,PAK v SA,Sydney Cricket Ground,Tristan Stubbs,18,18,0,1,100
+2022,1298170,PAK v SA,Sydney Cricket Ground,Wayne Parnell,3,4,0,0,75
+2022,1298170,PAK v SA,Sydney Cricket Ground,Kagiso Rabada,1,2,0,0,50
+2022,1298170,PAK v SA,Sydney Cricket Ground,Anrich Nortje,1,5,0,0,20
+2022,1298170,PAK v SA,Sydney Cricket Ground,Lungi Ngidi,4,1,1,0,400
+2022,1298170,PAK v SA,Sydney Cricket Ground,Tabraiz Shamsi,1,1,0,0,100
+2022,1298169,BAN v INDIA,Adelaide Oval,KL Rahul,50,32,3,4,156.25
+2022,1298169,BAN v INDIA,Adelaide Oval,Rohit Sharma,2,8,0,0,25
+2022,1298169,BAN v INDIA,Adelaide Oval,Virat Kohli,64,44,8,1,145.45
+2022,1298169,BAN v INDIA,Adelaide Oval,Suryakumar Yadav,30,16,4,0,187.5
+2022,1298169,BAN v INDIA,Adelaide Oval,Hardik Pandya,5,6,0,0,83.33
+2022,1298169,BAN v INDIA,Adelaide Oval,Dinesh Karthik,7,5,1,0,140
+2022,1298169,BAN v INDIA,Adelaide Oval,Axar Patel,7,6,1,0,116.66
+2022,1298169,BAN v INDIA,Adelaide Oval,Ravichandran Ashwin,13,6,1,1,216.66
+2022,1298169,BAN v INDIA,Adelaide Oval,Najmul Hossain Shanto,21,25,1,1,84
+2022,1298169,BAN v INDIA,Adelaide Oval,Litton Das,60,27,7,3,222.22
+2022,1298169,BAN v INDIA,Adelaide Oval,Shakib Al Hasan,13,12,2,0,108.33
+2022,1298169,BAN v INDIA,Adelaide Oval,Afif Hossain,3,5,0,0,60
+2022,1298169,BAN v INDIA,Adelaide Oval,Yasir Ali,1,3,0,0,33.33
+2022,1298169,BAN v INDIA,Adelaide Oval,Nurul Hasan,25,14,2,1,178.57
+2022,1298169,BAN v INDIA,Adelaide Oval,Mosaddek Hossain,6,3,0,1,200
+2022,1298169,BAN v INDIA,Adelaide Oval,Taskin Ahmed,12,7,1,1,171.42
+2022,1298168,NED v ZIM,Adelaide Oval,Wessly Madhevere,1,5,0,0,20
+2022,1298168,NED v ZIM,Adelaide Oval,Craig Ervine,3,12,0,0,25
+2022,1298168,NED v ZIM,Adelaide Oval,Regis Chakabva,5,16,1,0,31.25
+2022,1298168,NED v ZIM,Adelaide Oval,Sean Williams,28,23,3,0,121.73
+2022,1298168,NED v ZIM,Adelaide Oval,Sikandar Raza,40,24,3,3,166.66
+2022,1298168,NED v ZIM,Adelaide Oval,Milton Shumba,2,3,0,0,66.66
+2022,1298168,NED v ZIM,Adelaide Oval,Ryan Burl,2,7,0,0,28.57
+2022,1298168,NED v ZIM,Adelaide Oval,Luke Jongwe,6,8,0,0,75
+2022,1298168,NED v ZIM,Adelaide Oval,Richard Ngarava,9,7,0,1,128.57
+2022,1298168,NED v ZIM,Adelaide Oval,Tendai Chatara,6,7,0,0,85.71
+2022,1298168,NED v ZIM,Adelaide Oval,Blessing Muzarabani,1,4,0,0,25
+2022,1298168,NED v ZIM,Adelaide Oval,Stephan Myburgh,8,7,0,1,114.28
+2022,1298168,NED v ZIM,Adelaide Oval,Max O'Dowd,52,47,8,1,110.63
+2022,1298168,NED v ZIM,Adelaide Oval,Tom Cooper,32,29,2,1,110.34
+2022,1298168,NED v ZIM,Adelaide Oval,Colin Ackermann,1,5,0,0,20
+2022,1298168,NED v ZIM,Adelaide Oval,Bas de Leede,12,12,2,0,100
+2022,1298168,NED v ZIM,Adelaide Oval,Scott Edwards,5,6,1,0,83.33
+2022,1298168,NED v ZIM,Adelaide Oval,Roelof van der Merwe,0,3,0,0,0
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Jos Buttler,73,47,7,2,155.31
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Alex Hales,52,40,7,1,130
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Moeen Ali,5,6,0,0,83.33
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Liam Livingstone,20,14,1,1,142.85
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Harry Brook,7,3,0,1,233.33
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Ben Stokes,8,7,0,0,114.28
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Sam Curran,6,3,0,1,200
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Dawid Malan,3,1,0,0,300
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Finn Allen,16,11,0,1,145.45
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Devon Conway,3,9,0,0,33.33
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Kane Williamson,40,40,3,0,100
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Glenn Phillips,62,36,4,3,172.22
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",James Neesham,6,3,1,0,200
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Daryl Mitchell,3,5,0,0,60
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Mitchell Santner,16,10,0,1,160
+2022,1298167,ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Ish Sodhi,6,6,0,0,100
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Rahmanullah Gurbaz,28,24,2,2,116.66
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Usman Ghani,27,27,2,1,100
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Ibrahim Zadran,22,18,1,1,122.22
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Najibullah Zadran,18,16,1,0,112.5
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Gulbadin Naib,12,14,0,0,85.71
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Mohammad Nabi,13,8,1,0,162.5
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Rashid Khan,9,8,1,0,112.5
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Azmatullah Omarzai,3,4,0,0,75
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Mujeeb Ur Rahman,1,2,0,0,50
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Pathum Nissanka,10,10,2,0,100
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Kusal Mendis,25,27,2,1,92.59
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Dhananjaya de Silva,66,42,6,2,157.14
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Charith Asalanka,19,18,1,0,105.55
+2022,1298166,AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Bhanuka Rajapaksa,18,14,3,0,128.57
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",David Warner,3,7,0,0,42.85
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Aaron Finch,63,44,5,3,143.18
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Mitchell Marsh,28,22,2,2,127.27
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Glenn Maxwell,13,9,0,1,144.44
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Marcus Stoinis,35,25,3,1,140
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Tim David,15,10,2,0,150
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Matthew Wade,7,3,1,0,233.33
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Paul Stirling,11,7,1,1,157.14
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Andy Balbirnie,6,7,0,1,85.71
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Lorcan Tucker,71,48,9,1,147.91
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Harry Tector,6,4,1,0,150
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Curtis Campher,0,1,0,0,0
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",George Dockrell,0,4,0,0,0
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Gareth Delany,14,10,2,0,140
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Mark Adair,11,11,1,0,100
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Fionn Hand,6,6,1,0,100
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Barry McCarthy,3,7,0,0,42.85
+2022,1298165,AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Josh Little,1,5,0,0,20
+2022,1298164,INDIA v SA,Perth Stadium,KL Rahul,9,14,0,1,64.28
+2022,1298164,INDIA v SA,Perth Stadium,Rohit Sharma,15,14,1,1,107.14
+2022,1298164,INDIA v SA,Perth Stadium,Virat Kohli,12,11,2,0,109.09
+2022,1298164,INDIA v SA,Perth Stadium,Suryakumar Yadav,68,40,6,3,170
+2022,1298164,INDIA v SA,Perth Stadium,Deepak Hooda,0,3,0,0,0
+2022,1298164,INDIA v SA,Perth Stadium,Hardik Pandya,2,3,0,0,66.66
+2022,1298164,INDIA v SA,Perth Stadium,Dinesh Karthik,6,15,0,0,40
+2022,1298164,INDIA v SA,Perth Stadium,Ravichandran Ashwin,7,11,0,0,63.63
+2022,1298164,INDIA v SA,Perth Stadium,Bhuvneshwar Kumar,4,6,0,0,66.66
+2022,1298164,INDIA v SA,Perth Stadium,Mohammed Shami,0,2,0,0,0
+2022,1298164,INDIA v SA,Perth Stadium,Arshdeep Singh,2,1,0,0,200
+2022,1298164,INDIA v SA,Perth Stadium,Quinton de Kock,1,3,0,0,33.33
+2022,1298164,INDIA v SA,Perth Stadium,Temba Bavuma,10,15,0,1,66.66
+2022,1298164,INDIA v SA,Perth Stadium,Rilee Rossouw,0,2,0,0,0
+2022,1298164,INDIA v SA,Perth Stadium,Aiden Markram,52,41,6,1,126.82
+2022,1298164,INDIA v SA,Perth Stadium,David Miller,59,46,4,3,128.26
+2022,1298164,INDIA v SA,Perth Stadium,Tristan Stubbs,6,6,1,0,100
+2022,1298164,INDIA v SA,Perth Stadium,Wayne Parnell,2,5,0,0,40
+2022,1298163,NED v PAK,Perth Stadium,Stephan Myburgh,6,11,1,0,54.54
+2022,1298163,NED v PAK,Perth Stadium,Max O'Dowd,8,13,0,0,61.53
+2022,1298163,NED v PAK,Perth Stadium,Bas de Leede,6,16,1,0,37.5
+2022,1298163,NED v PAK,Perth Stadium,Tom Cooper,1,2,0,0,50
+2022,1298163,NED v PAK,Perth Stadium,Colin Ackermann,27,27,2,0,100
+2022,1298163,NED v PAK,Perth Stadium,Scott Edwards,15,20,1,0,75
+2022,1298163,NED v PAK,Perth Stadium,Roelof van der Merwe,5,6,0,0,83.33
+2022,1298163,NED v PAK,Perth Stadium,Tim Pringle,5,8,0,0,62.5
+2022,1298163,NED v PAK,Perth Stadium,Logan van Beek,6,9,0,0,66.66
+2022,1298163,NED v PAK,Perth Stadium,Fred Klaassen,0,1,0,0,0
+2022,1298163,NED v PAK,Perth Stadium,Paul van Meekeren,7,7,0,0,100
+2022,1298163,NED v PAK,Perth Stadium,Mohammad Rizwan,49,39,5,0,125.64
+2022,1298163,NED v PAK,Perth Stadium,Babar Azam,4,5,1,0,80
+2022,1298163,NED v PAK,Perth Stadium,Fakhar Zaman,20,16,3,0,125
+2022,1298163,NED v PAK,Perth Stadium,Shan Masood,12,16,0,0,75
+2022,1298163,NED v PAK,Perth Stadium,Iftikhar Ahmed,6,5,0,0,120
+2022,1298163,NED v PAK,Perth Stadium,Shadab Khan,4,2,1,0,200
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Najmul Hossain Shanto,71,55,7,1,129.09
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Soumya Sarkar,0,2,0,0,0
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Litton Das,14,12,3,0,116.66
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Shakib Al Hasan,23,20,1,0,115
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Afif Hossain,29,19,1,1,152.63
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Mosaddek Hossain,7,10,0,0,70
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Nurul Hasan,1,1,0,0,100
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Yasir Ali,1,1,0,0,100
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Wessly Madhevere,4,3,1,0,133.33
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Craig Ervine,8,7,2,0,114.28
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Milton Shumba,8,15,1,0,53.33
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Sean Williams,64,42,8,0,152.38
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Sikandar Raza,0,3,0,0,0
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Regis Chakabva,15,19,0,0,78.94
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Ryan Burl,27,25,2,1,108
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brad Evans,2,2,0,0,100
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Richard Ngarava,6,3,0,1,200
+2022,1298162,BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Blessing Muzarabani,0,2,0,0,0
+2022,1298161,NZ v SL,Sydney Cricket Ground,Finn Allen,1,3,0,0,33.33
+2022,1298161,NZ v SL,Sydney Cricket Ground,Devon Conway,1,4,0,0,25
+2022,1298161,NZ v SL,Sydney Cricket Ground,Kane Williamson,8,13,1,0,61.53
+2022,1298161,NZ v SL,Sydney Cricket Ground,Glenn Phillips,104,64,10,4,162.5
+2022,1298161,NZ v SL,Sydney Cricket Ground,Daryl Mitchell,22,24,0,0,91.66
+2022,1298161,NZ v SL,Sydney Cricket Ground,James Neesham,5,8,0,0,62.5
+2022,1298161,NZ v SL,Sydney Cricket Ground,Mitchell Santner,11,5,0,1,220
+2022,1298161,NZ v SL,Sydney Cricket Ground,Ish Sodhi,1,1,0,0,100
+2022,1298161,NZ v SL,Sydney Cricket Ground,Tim Southee,4,1,1,0,400
+2022,1298161,NZ v SL,Sydney Cricket Ground,Pathum Nissanka,0,5,0,0,0
+2022,1298161,NZ v SL,Sydney Cricket Ground,Kusal Mendis,4,3,1,0,133.33
+2022,1298161,NZ v SL,Sydney Cricket Ground,Dhananjaya de Silva,0,3,0,0,0
+2022,1298161,NZ v SL,Sydney Cricket Ground,Charith Asalanka,4,8,0,0,50
+2022,1298161,NZ v SL,Sydney Cricket Ground,Bhanuka Rajapaksa,34,22,3,2,154.54
+2022,1298161,NZ v SL,Sydney Cricket Ground,Chamika Karunaratne,3,8,0,0,37.5
+2022,1298161,NZ v SL,Sydney Cricket Ground,Dasun Shanaka,35,32,4,1,109.37
+2022,1298161,NZ v SL,Sydney Cricket Ground,Wanindu Hasaranga de Silva,4,6,1,0,66.66
+2022,1298161,NZ v SL,Sydney Cricket Ground,Maheesh Theekshana,0,3,0,0,0
+2022,1298161,NZ v SL,Sydney Cricket Ground,Kasun Rajitha,8,21,0,0,38.09
+2022,1298161,NZ v SL,Sydney Cricket Ground,Lahiru Kumara,4,5,1,0,80
+2022,1298158,PAK v ZIM,Perth Stadium,Wessly Madhevere,17,13,3,0,130.76
+2022,1298158,PAK v ZIM,Perth Stadium,Craig Ervine,19,19,2,0,100
+2022,1298158,PAK v ZIM,Perth Stadium,Milton Shumba,8,10,1,0,80
+2022,1298158,PAK v ZIM,Perth Stadium,Sean Williams,31,28,3,0,110.71
+2022,1298158,PAK v ZIM,Perth Stadium,Sikandar Raza,9,16,1,0,56.25
+2022,1298158,PAK v ZIM,Perth Stadium,Regis Chakabva,0,1,0,0,0
+2022,1298158,PAK v ZIM,Perth Stadium,Ryan Burl,10,15,0,0,66.66
+2022,1298158,PAK v ZIM,Perth Stadium,Luke Jongwe,0,1,0,0,0
+2022,1298158,PAK v ZIM,Perth Stadium,Brad Evans,19,15,0,1,126.66
+2022,1298158,PAK v ZIM,Perth Stadium,Richard Ngarava,3,2,0,0,150
+2022,1298158,PAK v ZIM,Perth Stadium,Mohammad Rizwan,14,16,1,1,87.5
+2022,1298158,PAK v ZIM,Perth Stadium,Babar Azam,4,9,1,0,44.44
+2022,1298158,PAK v ZIM,Perth Stadium,Shan Masood,44,38,3,0,115.78
+2022,1298158,PAK v ZIM,Perth Stadium,Iftikhar Ahmed,5,10,1,0,50
+2022,1298158,PAK v ZIM,Perth Stadium,Shadab Khan,17,14,0,1,121.42
+2022,1298158,PAK v ZIM,Perth Stadium,Haider Ali,0,1,0,0,0
+2022,1298158,PAK v ZIM,Perth Stadium,Mohammad Nawaz,22,18,1,1,122.22
+2022,1298158,PAK v ZIM,Perth Stadium,Mohammad Wasim,12,13,2,0,92.3
+2022,1298158,PAK v ZIM,Perth Stadium,Shaheen Shah Afridi,1,1,0,0,100
+2022,1298157,INDIA v NED,Sydney Cricket Ground,KL Rahul,9,12,1,0,75
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Rohit Sharma,53,39,4,3,135.89
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Virat Kohli,62,44,3,2,140.9
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Suryakumar Yadav,51,25,7,1,204
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Vikramjit Singh,1,9,0,0,11.11
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Max O'Dowd,16,10,3,0,160
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Bas de Leede,16,23,0,0,69.56
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Colin Ackermann,17,21,1,0,80.95
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Tom Cooper,9,12,0,0,75
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Scott Edwards,5,8,0,0,62.5
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Tim Pringle,20,15,1,1,133.33
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Logan van Beek,3,5,0,0,60
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Shariz Ahmad,16,11,2,0,145.45
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Fred Klaassen,0,1,0,0,0
+2022,1298157,INDIA v NED,Sydney Cricket Ground,Paul van Meekeren,14,6,3,0,233.33
+2022,1298156,BAN v SA,Sydney Cricket Ground,Temba Bavuma,2,6,0,0,33.33
+2022,1298156,BAN v SA,Sydney Cricket Ground,Quinton de Kock,63,38,7,3,165.78
+2022,1298156,BAN v SA,Sydney Cricket Ground,Rilee Rossouw,109,56,7,8,194.64
+2022,1298156,BAN v SA,Sydney Cricket Ground,Tristan Stubbs,7,7,1,0,100
+2022,1298156,BAN v SA,Sydney Cricket Ground,Aiden Markram,10,11,1,0,90.9
+2022,1298156,BAN v SA,Sydney Cricket Ground,David Miller,2,4,0,0,50
+2022,1298156,BAN v SA,Sydney Cricket Ground,Wayne Parnell,0,2,0,0,0
+2022,1298156,BAN v SA,Sydney Cricket Ground,Najmul Hossain Shanto,9,9,1,0,100
+2022,1298156,BAN v SA,Sydney Cricket Ground,Soumya Sarkar,15,6,0,2,250
+2022,1298156,BAN v SA,Sydney Cricket Ground,Litton Das,34,31,1,1,109.67
+2022,1298156,BAN v SA,Sydney Cricket Ground,Shakib Al Hasan,1,4,0,0,25
+2022,1298156,BAN v SA,Sydney Cricket Ground,Afif Hossain,1,5,0,0,20
+2022,1298156,BAN v SA,Sydney Cricket Ground,Mehidy Hasan Miraz,11,13,0,0,84.61
+2022,1298156,BAN v SA,Sydney Cricket Ground,Mosaddek Hossain,0,3,0,0,0
+2022,1298156,BAN v SA,Sydney Cricket Ground,Nurul Hasan,2,6,0,0,33.33
+2022,1298156,BAN v SA,Sydney Cricket Ground,Taskin Ahmed,10,17,1,0,58.82
+2022,1298156,BAN v SA,Sydney Cricket Ground,Hasan Mahmud,0,2,0,0,0
+2022,1298156,BAN v SA,Sydney Cricket Ground,Mustafizur Rahman,9,3,0,1,300
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Paul Stirling,14,8,1,1,175
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Andy Balbirnie,62,47,5,2,131.91
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Lorcan Tucker,34,27,3,1,125.92
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Harry Tector,0,2,0,0,0
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Curtis Campher,18,11,3,0,163.63
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,George Dockrell,0,1,0,0,0
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Gareth Delany,12,10,1,0,120
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Mark Adair,4,4,0,0,100
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Barry McCarthy,3,3,0,0,100
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Fionn Hand,1,2,0,0,50
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Josh Little,0,1,0,0,0
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Jos Buttler,0,2,0,0,0
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Alex Hales,7,5,1,0,140
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Dawid Malan,35,37,2,0,94.59
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Ben Stokes,6,8,0,0,75
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Harry Brook,18,21,1,0,85.71
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Moeen Ali,24,12,3,1,200
+2022,1298154,ENG v IRE,Melbourne Cricket Ground,Liam Livingstone,1,2,0,0,50
+2022,1298153,AUS v SL,Perth Stadium,Pathum Nissanka,40,45,2,0,88.88
+2022,1298153,AUS v SL,Perth Stadium,Kusal Mendis,5,6,1,0,83.33
+2022,1298153,AUS v SL,Perth Stadium,Dhananjaya de Silva,26,23,3,0,113.04
+2022,1298153,AUS v SL,Perth Stadium,Charith Asalanka,38,25,3,2,152
+2022,1298153,AUS v SL,Perth Stadium,Bhanuka Rajapaksa,7,5,1,0,140
+2022,1298153,AUS v SL,Perth Stadium,Dasun Shanaka,3,5,0,0,60
+2022,1298153,AUS v SL,Perth Stadium,Wanindu Hasaranga de Silva,1,4,0,0,25
+2022,1298153,AUS v SL,Perth Stadium,Chamika Karunaratne,14,7,2,0,200
+2022,1298153,AUS v SL,Perth Stadium,David Warner,11,10,0,0,110
+2022,1298153,AUS v SL,Perth Stadium,Aaron Finch,31,42,0,1,73.8
+2022,1298153,AUS v SL,Perth Stadium,Mitchell Marsh,17,17,1,1,100
+2022,1298153,AUS v SL,Perth Stadium,Glenn Maxwell,23,12,2,2,191.66
+2022,1298153,AUS v SL,Perth Stadium,Marcus Stoinis,59,18,4,6,327.77
+2022,1298152,SA v ZIM,"Bellerive Oval, Hobart",Regis Chakabva,8,8,0,1,100
+2022,1298152,SA v ZIM,"Bellerive Oval, Hobart",Craig Ervine,2,6,0,0,33.33
+2022,1298152,SA v ZIM,"Bellerive Oval, Hobart",Sean Williams,1,1,0,0,100
+2022,1298152,SA v ZIM,"Bellerive Oval, Hobart",Sikandar Raza,0,2,0,0,0
+2022,1298152,SA v ZIM,"Bellerive Oval, Hobart",Wessly Madhevere,35,18,4,1,194.44
+2022,1298152,SA v ZIM,"Bellerive Oval, Hobart",Milton Shumba,18,20,2,0,90
+2022,1298152,SA v ZIM,"Bellerive Oval, Hobart",Quinton de Kock,47,18,8,1,261.11
+2022,1298152,SA v ZIM,"Bellerive Oval, Hobart",Temba Bavuma,2,2,0,0,100
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Najmul Hossain Shanto,25,20,4,0,125
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Soumya Sarkar,14,14,2,0,100
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Litton Das,9,11,0,0,81.81
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Shakib Al Hasan,7,9,0,0,77.77
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Afif Hossain,38,27,2,2,140.74
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Yasir Ali,3,5,0,0,60
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Nurul Hasan,13,18,0,0,72.22
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Mosaddek Hossain,20,12,2,1,166.66
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Taskin Ahmed,0,1,0,0,0
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Hasan Mahmud,0,3,0,0,0
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Vikramjit Singh,0,1,0,0,0
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Max O'Dowd,8,8,0,1,100
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Bas de Leede,0,1,0,0,0
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Colin Ackermann,62,48,6,2,129.16
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Scott Edwards,16,24,1,0,66.66
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Tim Pringle,1,6,0,0,16.66
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Logan van Beek,2,5,0,0,40
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Shariz Ahmad,9,8,1,0,112.5
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Fred Klaassen,7,6,0,0,116.66
+2022,1298151,BAN v NED,"Bellerive Oval, Hobart",Paul van Meekeren,24,14,3,1,171.42
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Mohammad Rizwan,4,12,1,0,33.33
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Babar Azam,0,1,0,0,0
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Shan Masood,52,42,5,0,123.8
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Iftikhar Ahmed,51,34,2,4,150
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Shadab Khan,5,6,1,0,83.33
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Haider Ali,2,4,0,0,50
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Mohammad Nawaz,9,6,2,0,150
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Asif Ali,2,3,0,0,66.66
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Shaheen Shah Afridi,16,8,1,1,200
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Haris Rauf,6,4,0,1,150
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,KL Rahul,4,8,0,0,50
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Rohit Sharma,4,7,0,0,57.14
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Virat Kohli,82,53,6,4,154.71
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Suryakumar Yadav,15,10,2,0,150
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Axar Patel,2,3,0,0,66.66
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Hardik Pandya,40,37,1,2,108.1
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Dinesh Karthik,1,2,0,0,50
+2022,1298150,INDIA v PAK,Melbourne Cricket Ground,Ravichandran Ashwin,1,1,0,0,100
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Paul Stirling,34,25,4,1,136
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Andy Balbirnie,1,5,0,0,20
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Lorcan Tucker,10,11,1,0,90.9
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Harry Tector,45,42,2,1,107.14
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Curtis Campher,2,4,0,0,50
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",George Dockrell,14,16,0,0,87.5
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Gareth Delany,9,6,1,0,150
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Mark Adair,0,1,0,0,0
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Simi Singh,7,8,1,0,87.5
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Barry McCarthy,2,2,0,0,100
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Kusal Mendis,68,43,5,3,158.13
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Dhananjaya de Silva,31,25,2,1,124
+2022,1298149,IRE v SL,"Bellerive Oval, Hobart",Charith Asalanka,31,22,2,0,140.9
+2022,1298148,AFG v ENG,Perth Stadium,Hazratullah Zazai,7,17,1,0,41.17
+2022,1298148,AFG v ENG,Perth Stadium,Rahmanullah Gurbaz,10,9,0,1,111.11
+2022,1298148,AFG v ENG,Perth Stadium,Ibrahim Zadran,32,32,3,1,100
+2022,1298148,AFG v ENG,Perth Stadium,Usman Ghani,30,30,3,0,100
+2022,1298148,AFG v ENG,Perth Stadium,Najibullah Zadran,13,11,0,1,118.18
+2022,1298148,AFG v ENG,Perth Stadium,Mohammad Nabi,3,5,0,0,60
+2022,1298148,AFG v ENG,Perth Stadium,Azmatullah Omarzai,8,6,1,0,133.33
+2022,1298148,AFG v ENG,Perth Stadium,Rashid Khan,0,1,0,0,0
+2022,1298148,AFG v ENG,Perth Stadium,Mujeeb Ur Rahman,0,1,0,0,0
+2022,1298148,AFG v ENG,Perth Stadium,Fareed Ahmad,2,4,0,0,50
+2022,1298148,AFG v ENG,Perth Stadium,Fazalhaq Farooqi,0,2,0,0,0
+2022,1298148,AFG v ENG,Perth Stadium,Jos Buttler,18,18,3,0,100
+2022,1298148,AFG v ENG,Perth Stadium,Alex Hales,19,20,0,1,95
+2022,1298148,AFG v ENG,Perth Stadium,Dawid Malan,18,30,0,0,60
+2022,1298148,AFG v ENG,Perth Stadium,Ben Stokes,2,4,0,0,50
+2022,1298148,AFG v ENG,Perth Stadium,Liam Livingstone,29,21,3,0,138.09
+2022,1298148,AFG v ENG,Perth Stadium,Harry Brook,7,6,0,0,116.66
+2022,1298148,AFG v ENG,Perth Stadium,Moeen Ali,8,10,0,0,80
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Finn Allen,42,16,5,3,262.5
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Devon Conway,92,58,7,2,158.62
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Kane Williamson,23,23,1,1,100
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Glenn Phillips,12,10,2,0,120
+2022,1298147,AUS v NZ,Sydney Cricket Ground,James Neesham,26,13,0,2,200
+2022,1298147,AUS v NZ,Sydney Cricket Ground,David Warner,5,6,1,0,83.33
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Aaron Finch,13,11,1,1,118.18
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Mitchell Marsh,16,12,2,1,133.33
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Glenn Maxwell,28,20,3,1,140
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Marcus Stoinis,7,14,0,0,50
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Tim David,11,8,0,1,137.5
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Matthew Wade,2,4,0,0,50
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Pat Cummins,21,18,2,1,116.66
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Mitchell Starc,4,7,0,0,57.14
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Adam Zampa,0,2,0,0,0
+2022,1298147,AUS v NZ,Sydney Cricket Ground,Josh Hazlewood,1,1,0,0,100
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",George Munsey,54,51,7,0,105.88
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Michael Jones,4,5,1,0,80
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Matthew Cross,1,7,0,0,14.28
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Richie Berrington,13,15,0,0,86.66
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Calum MacLeod,25,26,1,0,96.15
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Michael Leask,12,9,2,0,133.33
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Chris Greaves,3,7,0,0,42.85
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Josh Davey,4,3,0,0,133.33
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Regis Chakabva,4,3,1,0,133.33
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Craig Ervine,58,54,6,0,107.4
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Wessly Madhevere,0,5,0,0,0
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Sean Williams,7,12,0,0,58.33
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Sikandar Raza,40,23,3,2,173.91
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Milton Shumba,11,11,0,0,100
+2022,1298146,SCOT v ZIM,"Bellerive Oval, Hobart",Ryan Burl,9,5,1,0,180
+2022,1298145,IRE v WI,"Bellerive Oval, Hobart",Kyle Mayers,1,5,0,0,20
+2022,1298145,IRE v WI,"Bellerive Oval, Hobart",Johnson Charles,24,18,3,1,133.33
+2022,1298145,IRE v WI,"Bellerive Oval, Hobart",Evin Lewis,13,18,0,0,72.22
+2022,1298145,IRE v WI,"Bellerive Oval, Hobart",Brandon King,62,48,6,1,129.16
+2022,1298145,IRE v WI,"Bellerive Oval, Hobart",Nicholas Pooran,13,11,0,1,118.18
+2022,1298145,IRE v WI,"Bellerive Oval, Hobart",Rovman Powell,6,8,1,0,75
+2022,1298145,IRE v WI,"Bellerive Oval, Hobart",Odean Smith,19,12,1,2,158.33
+2022,1298145,IRE v WI,"Bellerive Oval, Hobart",Paul Stirling,66,48,6,2,137.5
+2022,1298145,IRE v WI,"Bellerive Oval, Hobart",Andy Balbirnie,37,23,3,3,160.86
+2022,1298145,IRE v WI,"Bellerive Oval, Hobart",Lorcan Tucker,45,35,2,2,128.57
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Muhammad Waseem,50,41,1,3,121.95
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Vriitya Aravind,21,32,2,0,65.62
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Chundangapoyil Rizwan,43,29,3,1,148.27
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Alishan Sharafu,4,4,0,0,100
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Basil Hameed,25,14,2,2,178.57
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Michael van Lingen,10,8,1,0,125
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Stephan Baard,4,6,1,0,66.66
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Jan Nicol Loftie-Eaton,1,6,0,0,16.66
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Gerhard Erasmus,16,18,2,0,88.88
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Jan Frylinck,14,17,1,0,82.35
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",JJ Smit,3,3,0,0,100
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",David Wiese,55,36,3,3,152.77
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Zane Green,2,3,0,0,66.66
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Ruben Trumpelmann,25,24,1,1,104.16
+2022,1298144,NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Bernard Scholtz,1,1,0,0,100
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Pathum Nissanka,14,21,0,1,66.66
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Kusal Mendis,79,44,5,5,179.54
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Dhananjaya de Silva,0,1,0,0,0
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Charith Asalanka,31,30,3,0,103.33
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Bhanuka Rajapaksa,19,13,2,0,146.15
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Dasun Shanaka,8,5,0,1,160
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Wanindu Hasaranga de Silva,5,4,0,0,125
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Chamika Karunaratne,2,2,0,0,100
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Max O'Dowd,71,53,6,3,133.96
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Vikramjit Singh,7,14,0,0,50
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Bas de Leede,14,10,1,1,140
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Colin Ackermann,0,1,0,0,0
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Tom Cooper,16,19,2,0,84.21
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Scott Edwards,21,15,3,0,140
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Tim Pringle,2,4,0,0,50
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Timm van der Gugten,0,1,0,0,0
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Fred Klaassen,3,3,0,0,100
+2022,1298143,NED v SL,"Simonds Stadium, South Geelong, Victoria",Roelof van der Merwe,0,1,0,0,0
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Kyle Mayers,13,12,2,0,108.33
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Johnson Charles,45,36,3,2,125
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Evin Lewis,15,18,1,0,83.33
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Nicholas Pooran,7,9,0,0,77.77
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Rovman Powell,28,21,1,2,133.33
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Shamarh Brooks,0,3,0,0,0
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Jason Holder,4,3,0,0,133.33
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Akeal Hosein,23,18,2,0,127.77
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Odean Smith,1,2,0,0,50
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Wessly Madhevere,27,19,3,1,142.1
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Regis Chakabva,13,9,3,0,144.44
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Tony Munyonga,2,6,0,0,33.33
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Sean Williams,1,2,0,0,50
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Sikandar Raza,14,8,1,1,175
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Milton Shumba,2,9,0,0,22.22
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Ryan Burl,17,19,3,0,89.47
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Luke Jongwe,29,22,3,1,131.81
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Richard Ngarava,2,6,0,0,33.33
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Tendai Chatara,3,8,0,0,37.5
+2022,1298142,WI v ZIM,"Bellerive Oval, Hobart",Blessing Muzarabani,1,4,0,0,25
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",George Munsey,1,2,0,0,50
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",Michael Jones,86,55,6,4,156.36
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",Matthew Cross,28,21,5,0,133.33
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",Richie Berrington,37,27,3,1,137.03
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",Michael Leask,17,13,2,0,130.76
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",Calum MacLeod,0,3,0,0,0
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",Paul Stirling,8,10,1,0,80
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",Andy Balbirnie,14,12,2,0,116.66
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",Lorcan Tucker,20,17,2,0,117.64
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",Harry Tector,14,16,1,0,87.5
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",Curtis Campher,72,32,7,2,225
+2022,1298141,IRE v SCOT,"Bellerive Oval, Hobart",George Dockrell,39,27,4,1,144.44
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Pathum Nissanka,74,60,6,2,123.33
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Kusal Mendis,18,13,2,0,138.46
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Dhananjaya de Silva,33,21,3,1,157.14
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Bhanuka Rajapaksa,5,8,0,0,62.5
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Charith Asalanka,0,1,0,0,0
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Dasun Shanaka,0,1,0,0,0
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Wanindu Hasaranga de Silva,2,3,0,0,66.66
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Chamika Karunaratne,8,11,1,0,72.72
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Pramod Madushan,1,1,0,0,100
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Dushmantha Chameera,1,1,0,0,100
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Muhammad Waseem,2,4,0,0,50
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Chirag Suri,14,19,3,0,73.68
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Aryan Lakra,1,3,0,0,33.33
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Chundangapoyil Rizwan,1,3,0,0,33.33
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Vriitya Aravind,9,18,1,0,50
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Basil Hameed,2,6,0,0,33.33
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Aayan Afzal Khan,19,21,1,0,90.47
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Kashif Daud,0,4,0,0,0
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Karthik Meiyappan,4,8,0,0,50
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Junaid Siddique,18,16,1,1,112.5
+2022,1298140,SL v UAE,"Simonds Stadium, South Geelong, Victoria",Zahoor Khan,1,1,0,0,100
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Michael van Lingen,20,19,3,0,105.26
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Divan la Cock,0,2,0,0,0
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Stephan Baard,19,22,0,0,86.36
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Jan Nicol Loftie-Eaton,0,2,0,0,0
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Jan Frylinck,43,48,1,1,89.58
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Gerhard Erasmus,16,18,0,0,88.88
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",David Wiese,11,5,1,0,220
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",JJ Smit,5,4,1,0,125
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Max O'Dowd,35,35,1,1,100
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Vikramjit Singh,39,31,3,2,125.8
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Bas de Leede,30,30,2,0,100
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Tom Cooper,6,6,1,0,100
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Colin Ackermann,0,2,0,0,0
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Scott Edwards,1,5,0,0,20
+2022,1298139,NAM v NED,"Simonds Stadium, South Geelong, Victoria",Tim Pringle,8,9,0,0,88.88
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Regis Chakabva,0,2,0,0,0
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Craig Ervine,9,12,1,0,75
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Wessly Madhevere,22,19,4,0,115.78
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Sean Williams,12,11,0,1,109.09
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Sikandar Raza,82,48,5,5,170.83
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Milton Shumba,16,14,1,0,114.28
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Ryan Burl,1,4,0,0,25
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Luke Jongwe,20,10,3,0,200
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Paul Stirling,0,2,0,0,0
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Andy Balbirnie,3,4,0,0,75
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Lorcan Tucker,11,11,2,0,100
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Harry Tector,1,4,0,0,25
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Curtis Campher,27,22,1,0,122.72
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",George Dockrell,24,20,3,0,120
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Gareth Delany,24,20,1,1,120
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Mark Adair,9,10,0,1,90
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Simi Singh,0,1,0,0,0
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Barry McCarthy,22,16,1,2,137.5
+2022,1298138,IRE v ZIM,"Bellerive Oval, Hobart",Josh Little,7,11,1,0,63.63
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",George Munsey,66,53,9,0,124.52
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Michael Jones,20,17,3,0,117.64
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Matthew Cross,3,5,0,0,60
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Richie Berrington,16,14,0,1,114.28
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Calum MacLeod,23,14,4,0,164.28
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Michael Leask,4,6,0,0,66.66
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Chris Greaves,16,11,2,0,145.45
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Kyle Mayers,20,13,3,1,153.84
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Evin Lewis,14,13,1,1,107.69
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Brandon King,17,15,3,0,113.33
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Nicholas Pooran,5,9,0,0,55.55
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Shamarh Brooks,4,9,0,0,44.44
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Rovman Powell,5,6,0,0,83.33
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Jason Holder,38,33,4,1,115.15
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Akeal Hosein,1,1,0,0,100
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Alzarri Joseph,0,1,0,0,0
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Odean Smith,5,8,0,0,62.5
+2022,1298137,SCOT v WI,"Bellerive Oval, Hobart",Obed McCoy,2,3,0,0,66.66
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Chirag Suri,12,20,1,0,60
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Muhammad Waseem,41,47,1,2,87.23
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Kashif Daud,15,14,0,1,107.14
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Vriitya Aravind,18,21,0,0,85.71
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Zawar Farid,2,4,0,0,50
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Basil Hameed,4,4,1,0,100
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Chundangapoyil Rizwan,1,2,0,0,50
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Aayan Afzal Khan,5,7,0,0,71.42
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Junaid Siddique,0,1,0,0,0
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Vikramjit Singh,10,7,2,0,142.85
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Max O'Dowd,23,18,3,1,127.77
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Bas de Leede,14,18,1,0,77.77
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Colin Ackermann,17,19,1,0,89.47
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Tom Cooper,8,16,0,0,50
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Scott Edwards,16,19,0,0,84.21
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Roelof van der Merwe,0,2,0,0,0
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Tim Pringle,15,16,0,0,93.75
+2022,1298136,NED v UAE,"Simonds Stadium, South Geelong, Victoria",Logan van Beek,4,4,0,0,100
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Michael van Lingen,3,6,0,0,50
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Divan la Cock,9,9,1,0,100
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Jan Nicol Loftie-Eaton,20,12,1,2,166.66
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Stephan Baard,26,24,2,0,108.33
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Gerhard Erasmus,20,24,0,0,83.33
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Jan Frylinck,44,28,4,0,157.14
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",David Wiese,0,1,0,0,0
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",JJ Smit,31,16,2,2,193.75
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Pathum Nissanka,9,10,1,0,90
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Kusal Mendis,6,6,0,0,100
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Dhananjaya de Silva,12,11,1,0,109.09
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Danushka Gunathilaka,0,1,0,0,0
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Bhanuka Rajapaksa,20,21,2,0,95.23
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Dasun Shanaka,29,23,2,1,126.08
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Wanindu Hasaranga de Silva,4,8,0,0,50
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Chamika Karunaratne,5,8,0,0,62.5
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Dushmantha Chameera,8,15,0,0,53.33
+2022,1298135,NAM v SL,"Simonds Stadium, South Geelong, Victoria",Maheesh Theekshana,11,11,0,1,100
